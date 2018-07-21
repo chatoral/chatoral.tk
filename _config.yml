@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+baseurl: "/Type-on-Strap"
 title: Chatoral
 Description: India's upcoming social networking and chatting service
 collections: [sections]
