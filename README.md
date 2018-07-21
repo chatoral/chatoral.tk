@@ -19,4 +19,4 @@ s0.parentNode.insertBefore(s1,s0);
  </body>
  
 [Dibakar Das](https://www.dibakardas.tk){:target="_blank"}(founder and CEO)<br>[Subha Paul](https://www.subhapaul.tk){:target="_blank"}(Co-founder and CFO)<br><br>
-©Chatoral, Inc. 2018
+©Chatoral Inc. 2018
