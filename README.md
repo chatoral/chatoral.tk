@@ -1,7 +1,7 @@
 # Welcome
 India's New social networking site<br><em>Coming soon</em><br>
 <br><br>
-
+If you have any queries, you can text to us from the below icon.
 <body>
   <!--Start of Tawk.to Script-->
 <script type="text/javascript">
