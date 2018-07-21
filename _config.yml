@@ -2,3 +2,5 @@ baseurl: "/Type-on-Strap"
 title: Chatoral
 Description: India's upcoming social networking and chatting service
 collections: [sections]
+
+theme: jekyll-theme-cayman
