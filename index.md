@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome
+
 India's upcoming social networking and chatting service<br><em>Coming soon</em><br>
 <br><br>
 If you have any queries, you can text to us from the below icon.
