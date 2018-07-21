@@ -21,5 +21,5 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
  </body>
  
-[Dibakar Das](https://www.dibakardas.tk){:target="_blank"}(founder and CEO)<br>[Subha Paul](https://www.subhapaul.tk){:target="_blank"}(Co-founder and CFO)<br><br>
+[Dibakar Das](https://www.dibakardas.tk){:target="_blank"}(founder and CEO)<br><br>
 ©Chatoral Inc. 2018
